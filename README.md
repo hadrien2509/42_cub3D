@@ -10,3 +10,5 @@
 ```./cub3D maps/mapfile.cub```
 
 ![screenshot01](https://i.imgur.com/eoUeu5T.png)
+
+![screenshot01](https://imgur.com/Fa3jxNb.png)
