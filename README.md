@@ -9,4 +9,4 @@
 ### Usage:
 ```./cub3D maps/mapfile.cub```
 
-![screenshot01](https://imgur.com/eoUeu5T)
+![screenshot01](https://i.imgur.com/eoUeu5T.png)
